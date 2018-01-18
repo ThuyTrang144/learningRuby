@@ -4,6 +4,9 @@ class BooksController < ApplicationController
     @books = Book.all
   end
 
+  def show
+  end
+
   def new 
     @book = Book.new
   end
@@ -11,9 +14,6 @@ class BooksController < ApplicationController
   def edit
   end
   
-  # def show
-  # end
-
   def create
     @book = Book.new(book_params)
       if @book.save
@@ -26,7 +26,6 @@ class BooksController < ApplicationController
 
   def update
     if @book.update(book_params)
-      # redirect_to @book,
       redirect_to @book,
         notice: "Book was successfully update"
     else
