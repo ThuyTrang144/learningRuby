@@ -1,6 +1,6 @@
 <ul>
   <% @books.each do |book| %>
-    <td><%= book.id %></td>
+    <li><%= book.id %></li>
     <li><%= book.title %></li>
     <li><%= book.content %></li>
     <li><%= book.author %></li>
@@ -10,4 +10,3 @@
   <% end %>
 </ul>
 <td><%= link_to "New Book", new_book_path %><td>
-<%# <%= link_to "Editing Book", some_path %> 
