@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
-  resources :books, only: [:index, :new, :create]
+  resources :books 
+  # only: [:index, :new, :create, :edit]
+  root "books#index"
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
