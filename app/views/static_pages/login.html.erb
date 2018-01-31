@@ -1,0 +1,24 @@
+<% provide(:title, "Login") %>
+<form action="/action_page.php">
+  <div class="imgcontainer">
+    <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.0-9/17199_624219134345235_4155075349299977751_n.jpg?oh=f2632cbcd024bffbae1094d12de74868&oe=5AD8C30C" alt="Avatar" class="avatar">
+  </div>
+
+  <div class="container">
+    <label><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+        
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form>
