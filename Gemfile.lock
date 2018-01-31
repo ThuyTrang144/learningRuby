@@ -46,8 +46,11 @@ GEM
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
     bindex (0.5.0)
 =======
     autoprefixer-rails (7.2.5)
@@ -69,6 +72,9 @@ GEM
     bindex (0.5.0)
 >>>>>>> 1174b24... change
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9324d00... change:
 =======
     autoprefixer-rails (7.2.5)
       execjs
@@ -77,8 +83,11 @@ GEM
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
 >>>>>>> b1274ad... change:
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
     builder (3.2.3)
     byebug (9.1.0)
     capybara (2.17.0)
@@ -95,8 +104,11 @@ GEM
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
 =======
     coderay (1.1.2)
 >>>>>>> 29a56ba... title
@@ -106,11 +118,17 @@ GEM
 =======
 >>>>>>> 1174b24... change
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     coderay (1.1.2)
 >>>>>>> b1274ad... change:
 =======
 >>>>>>> 556ab70... change
+=======
+=======
+    coderay (1.1.2)
+>>>>>>> b1274ad... change:
+>>>>>>> 9324d00... change:
     coffee-rails (4.2.2)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0)
@@ -152,8 +170,11 @@ GEM
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
 =======
     pry (0.11.3)
       coderay (~> 1.1.0)
@@ -167,13 +188,19 @@ GEM
 =======
 >>>>>>> 1174b24... change
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9324d00... change:
 =======
     pry (0.11.3)
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
 >>>>>>> b1274ad... change:
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
     public_suffix (3.0.1)
     puma (3.11.0)
     rack (2.0.3)
@@ -265,8 +292,11 @@ DEPENDENCIES
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
 =======
   bootstrap-sass (~> 3.3.7)
 >>>>>>> b1274ad26d206d50922e48f3393cee2d00a049b5
@@ -276,11 +306,17 @@ DEPENDENCIES
 =======
 >>>>>>> 1174b24... change
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   bootstrap-sass (~> 3.3.7)
 >>>>>>> b1274ad... change:
 =======
 >>>>>>> 556ab70... change
+=======
+=======
+  bootstrap-sass (~> 3.3.7)
+>>>>>>> b1274ad... change:
+>>>>>>> 9324d00... change:
   byebug
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
@@ -291,8 +327,11 @@ DEPENDENCIES
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 556ab70... change
+=======
+>>>>>>> 9324d00... change:
 =======
   pry
 >>>>>>> 29a56ba... title
@@ -302,11 +341,17 @@ DEPENDENCIES
 =======
 >>>>>>> 1174b24... change
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   pry
 >>>>>>> b1274ad... change:
 =======
 >>>>>>> 556ab70... change
+=======
+=======
+  pry
+>>>>>>> b1274ad... change:
+>>>>>>> 9324d00... change:
   puma (~> 3.7)
   rails (~> 5.1.4)
   sass-rails (~> 5.0)
