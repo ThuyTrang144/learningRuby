@@ -1,0 +1,9 @@
+<%= form_for(employee) do |f| %>
+  <div><%= f.label :name, value: "Name" %></div>
+  <div><%= f.text_field :name %></div>
+  <div><%= f.label :email, value: "Email" %></div>
+  <div><%= f.text_area :email %>
+  <div><%= f.submit %>
+   
+<% end %>
+  
