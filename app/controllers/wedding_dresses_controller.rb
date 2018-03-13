@@ -11,7 +11,7 @@ def new
   @weddingdress = WeddingDress.new
 end
 def create
-  a = WeddingDress.new(params.require("wedding_dress").permit(:name, :size, :color))
+  a = WeddingDress.new(params.require("wedding_dress").permit(:size, :color, :amount, :cost))
   a.save
   redirect_to wedding_dresses_path
 end
