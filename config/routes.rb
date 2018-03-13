@@ -10,4 +10,5 @@ Rails.application.routes.draw do
   get 'static_pages/login'
   get 'static_pages/register'
   resources :employees
+  resources :wedding_dresses
 end
