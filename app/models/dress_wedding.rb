@@ -1,0 +1,2 @@
+class DressWedding < ApplicationRecord
+end
